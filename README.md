@@ -1,6 +1,10 @@
 # Tauritron
 An open-source web interface for running worldwide energy system planning scenarios
 
+<img src="https://www.publicdomainpictures.net/pictures/450000/velka/image-16482345658Ar.jpg" width="300">
+
+
+
 ## Short project description
 The open source project puts the human back at the center of energy planning decisions. This project will improve how people interact with energy data, enable simple calculations and visualizations, promote public engagement, and improve human-centered decision making. Specifically, the project aims to develop a graphical web interface for the popular open-source energy system model, PyPSA, which is used in research and industry worldwide. After successful development, the open-source developments can be adapted by any other tool.
 
