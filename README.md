@@ -1,7 +1,7 @@
 # Tauritron
-An open-source web interface for running worldwide energy system planning scenarios
+<!-- An open-source web interface for running worldwide energy system planning studies -->
 
-<img src="https://www.publicdomainpictures.net/pictures/450000/velka/image-16482345658Ar.jpg" width="300">
+<img src="images/logo-capital-english.png" width="300">
 
 
 

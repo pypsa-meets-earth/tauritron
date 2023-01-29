@@ -1,0 +1,74 @@
+html, body {
+    height: 100%;
+    font-family: "Helvetica Neue", serif;
+}
+
+body {
+    background: #000;
+    margin: 0;
+}
+
+.flex-container {
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.row {
+    width: auto;
+    border-radius: 30px;
+    padding: 1vh 1vw;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.flex-item {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+
+.social {
+    text-align: center;
+    font-size: 20pt;
+}
+
+.social a {
+    color: #fff;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.social a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+.social a:active {
+    color: #fff;
+    text-decoration: none;
+}
+
+.social a:hover {
+    color: #dedede;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 20pt;
+}
+
+h2 {
+    font-size: 25pt;
+}
+
