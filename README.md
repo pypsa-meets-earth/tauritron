@@ -4,7 +4,6 @@
 <img src="images/logo-capital-english.png" width="300">
 
 
-
 ## Short project description
 The open source project puts the human back at the center of energy planning decisions. This project will improve how people interact with energy data, enable simple calculations and visualizations, promote public engagement, and improve human-centered decision making. Specifically, the project aims to develop a graphical web interface for the popular open-source energy system model, PyPSA, which is used in research and industry worldwide. After successful development, the open-source developments can be adapted by any other tool.
 
@@ -20,3 +19,9 @@ The webinterface will be developed on a stable version of PyPSA-Earth. The model
 - **01.06.2023 Beta version presentation.** Design, viz-art and functions are improved.
 - **01.08.2023 Demo day preparation.** Live version should be ready. Documentation is perfected.
 - **01.09.2023 Demo day presentation.**
+
+## Sponsor
+Sponsored by BMBF through the [Prototypefund 2023 round 13](https://prototypefund.de/project/tauritron/).
+<br>
+<img src="https://github.com/pypsa-meets-earth/tauritron/assets/61968949/e1563dc7-884d-4cae-ba48-70d57ab12774" width="300" align="left">
+
