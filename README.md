@@ -3,6 +3,9 @@
 
 <img src="images/logo-capital-english.png" width="300">
 
+## New packages
+- PyPSA-lit - An interactive visualization platform for exploring energy systems: [code](https://github.com/pypsa-meets-earth/pypsa-earth-lit) and [docs](https://github.com/pypsa-meets-earth/pypsa-lit-docs) 
+- PyPSA-engine - A compute platform for optimizing large optimization problems: [Kubernetes workflow code](https://github.com/open-energy-transition/pypsa-workflow), [back-end code](https://github.com/open-energy-transition/pypsa-cloud-dashbord-express), [front-end code](https://github.com/open-energy-transition/pypsa-cloud-dashbord-react)
 
 ## Short project description
 The open source project puts the human back at the center of energy planning decisions. This project will improve how people interact with energy data, enable simple calculations and visualizations, promote public engagement, and improve human-centered decision making. Specifically, the project aims to develop a graphical web interface for the popular open-source energy system model, PyPSA, which is used in research and industry worldwide. After successful development, the open-source developments can be adapted by any other tool.
